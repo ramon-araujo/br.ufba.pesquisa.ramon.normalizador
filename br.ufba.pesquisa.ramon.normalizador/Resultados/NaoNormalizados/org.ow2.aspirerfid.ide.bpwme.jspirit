@@ -1,0 +1,18 @@
+Feature Envy	CLCBProcImpl.eIsSet
+God Class	CLCBProcImpl
+Refused Parent Bequest	CLCBProcImpl
+Tradition Breaker	CLCBProcImpl
+Long Method	BpwmeSwitch.doSwitch
+Feature Envy	BpwmeSwitch.doSwitch
+Feature Envy	WorkflowMapImpl.eIsSet
+Feature Envy	BpwmeFactoryImpl.create
+Feature Envy	OLCBProcImpl.eIsSet
+Refused Parent Bequest	OLCBProcImpl
+Feature Envy	ConnectionImpl.setSourceNode
+Feature Envy	ConnectionImpl.setTargetNode
+Feature Envy	ConnectionImpl.eInverseAdd
+God Class	ConnectionImpl
+Data Class	ConnectionImpl
+Feature Envy	EBProcImpl.eIsSet
+Refused Parent Bequest	EBProcImpl
+Tradition Breaker	EBProcImpl

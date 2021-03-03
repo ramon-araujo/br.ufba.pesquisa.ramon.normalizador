@@ -1,0 +1,10 @@
+Large Class	MasterDataEditorGMFPackage
+Large Class	AbstractContainerImpl
+God Class	AbstractContainerImpl
+Large Class	AbstractWarehouseImpl
+God Class	AbstractWarehouseImpl
+Large Class	CompanyImpl
+God Class	CompanyImpl
+Large Class	MasterDataEditorGMFPackageImpl
+God Class	MasterDataEditorGMFPackageImpl
+God Class	MasterDataEditorGMFSwitch

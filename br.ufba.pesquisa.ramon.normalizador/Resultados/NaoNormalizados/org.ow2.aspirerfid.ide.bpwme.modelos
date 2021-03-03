@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results>
+<result date="Wed Feb 17 16:33:14 BRT 2021" file="bpwme.ecore" number="1">
+<smell description="Acontece quando classes são usadas apenas para armazenar dados." name="Data Class" number="4">
+<elements number="1">
+<element>WorkflowMap</element>
+</elements>
+<elements number="2">
+<element>OLCBProc</element>
+</elements>
+<elements number="3">
+<element>CLCBProc</element>
+</elements>
+<elements number="4">
+<element>EBProc</element>
+</elements>
+</smell>
+</result>
+</results>

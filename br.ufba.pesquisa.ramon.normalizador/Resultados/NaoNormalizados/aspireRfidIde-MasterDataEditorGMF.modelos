@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results>
+<result date="Wed Feb 17 16:27:03 BRT 2021" file="MasterDataEditorGMF.ecore" number="1">
+<smell description="Acontece quando classes são usadas apenas para armazenar dados." name="Data Class" number="25">
+<elements number="1">
+<element>Company</element>
+</elements>
+<elements number="2">
+<element>AbstractWarehouse</element>
+</elements>
+<elements number="3">
+<element>BizLoc</element>
+</elements>
+<elements number="4">
+<element>Warehouse</element>
+</elements>
+<elements number="5">
+<element>Room</element>
+</elements>
+<elements number="6">
+<element>Section</element>
+</elements>
+<elements number="7">
+<element>AbstractContainer</element>
+</elements>
+<elements number="8">
+<element>ReadPoint</element>
+</elements>
+<elements number="9">
+<element>Container</element>
+</elements>
+<elements number="10">
+<element>Conveyor</element>
+</elements>
+<elements number="11">
+<element>Shelf</element>
+</elements>
+<elements number="12">
+<element>Gate</element>
+</elements>
+<elements number="13">
+<element>PalletTruck</element>
+</elements>
+<elements number="14">
+<element>PushArm</element>
+</elements>
+<elements number="15">
+<element>HandHeldReader</element>
+</elements>
+<elements number="16">
+<element>Container1</element>
+</elements>
+<elements number="17">
+<element>Container2</element>
+</elements>
+<elements number="18">
+<element>Container3</element>
+</elements>
+<elements number="19">
+<element>Container4</element>
+</elements>
+<elements number="20">
+<element>Container5</element>
+</elements>
+<elements number="21">
+<element>Container6</element>
+</elements>
+<elements number="22">
+<element>Container7</element>
+</elements>
+<elements number="23">
+<element>Container8</element>
+</elements>
+<elements number="24">
+<element>Container9</element>
+</elements>
+<elements number="25">
+<element>Container10</element>
+</elements>
+</smell>
+<smell description="Acontece quando uma classe possui responsabilidades demais." name="Large Class" number="25">
+<elements number="1">
+<element>Company</element>
+</elements>
+<elements number="2">
+<element>AbstractWarehouse</element>
+</elements>
+<elements number="3">
+<element>BizLoc</element>
+</elements>
+<elements number="4">
+<element>Warehouse</element>
+</elements>
+<elements number="5">
+<element>Room</element>
+</elements>
+<elements number="6">
+<element>Section</element>
+</elements>
+<elements number="7">
+<element>AbstractContainer</element>
+</elements>
+<elements number="8">
+<element>ReadPoint</element>
+</elements>
+<elements number="9">
+<element>Container</element>
+</elements>
+<elements number="10">
+<element>Conveyor</element>
+</elements>
+<elements number="11">
+<element>Shelf</element>
+</elements>
+<elements number="12">
+<element>Gate</element>
+</elements>
+<elements number="13">
+<element>PalletTruck</element>
+</elements>
+<elements number="14">
+<element>PushArm</element>
+</elements>
+<elements number="15">
+<element>HandHeldReader</element>
+</elements>
+<elements number="16">
+<element>Container1</element>
+</elements>
+<elements number="17">
+<element>Container2</element>
+</elements>
+<elements number="18">
+<element>Container3</element>
+</elements>
+<elements number="19">
+<element>Container4</element>
+</elements>
+<elements number="20">
+<element>Container5</element>
+</elements>
+<elements number="21">
+<element>Container6</element>
+</elements>
+<elements number="22">
+<element>Container7</element>
+</elements>
+<elements number="23">
+<element>Container8</element>
+</elements>
+<elements number="24">
+<element>Container9</element>
+</elements>
+<elements number="25">
+<element>Container101</element>
+</elements>
+</smell>
+</result>
+</results>
