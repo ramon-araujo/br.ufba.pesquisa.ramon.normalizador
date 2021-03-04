@@ -126,13 +126,13 @@ public abstract class Normalizador {
 					resultadoEncontrado.getListaDeSmells().addAll(smellsClonados);
 				} else {
 					Resultado resultadoAgrupado = new Resultado();
-					resultado.setProjeto(resultado.getProjeto());
-					resultado.setNomeArquivo(resultado.getProjeto().getNome());
+					resultadoAgrupado.setProjeto(resultado.getProjeto());
+					resultadoAgrupado.setNomeArquivo(resultado.getProjeto().getNome());
 					List<CodeSmellInstance> smellsClonados = new ArrayList<>();
 					for (CodeSmellInstance codeSmellInstance : resultado.getListaDeSmells()) {
 						smellsClonados.add(codeSmellInstance.clone());
 					}
-					resultado.setListaDeSmells(smellsClonados);
+					resultadoAgrupado.setListaDeSmells(smellsClonados);
 					resultadosAgrupados.add(resultadoAgrupado);
 				}
 			} catch (CloneNotSupportedException e) {
